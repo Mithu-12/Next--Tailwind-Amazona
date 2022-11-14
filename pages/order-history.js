@@ -86,5 +86,5 @@ function OrderHistoryScreen() {
   );
 }
 
-// OrderHistoryScreen.auth = true;
+OrderHistoryScreen.auth = true;
 export default OrderHistoryScreen;
